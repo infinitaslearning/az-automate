@@ -1,0 +1,16 @@
+{
+  "name": "az-automate",
+  "version": "1.0.0",
+  "description": "To use this, you need the `az-cli` installed, and to have logged in - it basically wraps around the CLI tool.",
+  "main": "repo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-spawn": "^4.0.1",
+    "fast-csv": "^4.3.6",
+    "git-last-commit": "^1.0.0"
+  }
+}

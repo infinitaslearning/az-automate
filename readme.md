@@ -9,9 +9,9 @@ https://docs.microsoft.com/en-us/azure/devops/cli/?view=azure-devops
 
 ### Get all Repos
 
-Gets all projects, then for each project, gets all repos
+Gets all projects, then for each project, gets all repos into a CSV file.
 
 ```
-node ./repo > repos.json
+node ./repo
 ```
 
